@@ -1,0 +1,2 @@
+TEXTBEE_API_KEY = "f13b854e-cb04-4e45-a9fb-25f281e39e0e" 
+DEVICE_ID = "686a32067d12fccbe9992dea" 
